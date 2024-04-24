@@ -4,6 +4,7 @@
 
 
 - 👨‍💻 All of my projects are available at [https://reagan203.github.io/portfolio/](https://reagan203.github.io/portfolio/)
+- my blog **https://hashnode.com/@ReaganM**
 
 - 💬 Ask me about **react, python, javascript**
 
